@@ -201,7 +201,7 @@
 }
 
 .theme-dark .wordmark_a934d8::before {
-    content: "‏‏‎ c h i l l a x";
+    content: "‏‏‎ I N F L A T I O N P O R N";
     font-size: 12px;
     font-family: "Poiret one" !important;
     position: fixed;
@@ -217,7 +217,7 @@
 }
 
 .wordmark_a934d8:hover:before {
-    content: "‏‏‎ c h i l l a x";
+    content: "‏‏‎ I N F L A T I O N P O R N";
     letter-spacing: 2px;
 }
 
@@ -312,7 +312,7 @@
 
 /* Replace Wandering Cubes Spinner/loading discord image with gif*/
 span[class="inner-26JK4f"]:after {
-    background-image: url("https://multiplexurbangreen.com/images/loader.gif");
+    background-image: url("https://media1.tenor.com/m/aN8xwKyxt7YAAAAC/pge-overwatch.gif");
     background-size: cover;
     display: inline-block;
     width: 32px;
@@ -1032,7 +1032,7 @@ span:not(.spinner-item) {
 }
 
 /* Twitter */
-[href*="twitter.com/"] {
+[href*="x.com/"] {
     color: #00acee !important;
 }
 
